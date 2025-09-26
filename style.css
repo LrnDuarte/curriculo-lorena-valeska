@@ -187,3 +187,7 @@ h2 {
         justify-self: center;
     }
 }
+.header-logo img {
+  width: 80px; /* ajuste o valor para o tamanho desejado */
+  height: auto; /* mantém proporção */
+}
